@@ -1,13 +1,13 @@
-Lotta Leppälä|Muste Creative
-LOTTA LEPPÄLÄ|MUSTE CREATIVE
-Мс
-
-FIT
+Hamester|RedsToad
+HAMESTER|REDSTOAD
+МАСШТАБИРОВАНИЕ
+ЦЕЛЫЙ МНОЖИТЕЛЬ
+ВМЕСТИТЬ
 ЦВЕТ ГРАНИЦЫ
 ЧЕРНЫЙ
 ТЕМНЫЙ
-ВЕРТИКАЛЬНАЯ СИНХРОНИЗАЦИЯ
-МИГАЮЩИЕ ЭФФЕКТЫ
+ВЕРТ. СИНХ.
+МИГ. ЭФКТЫ.
 60 FPS
 30 FPS
 УМЕНЬШЕННЫЕ
