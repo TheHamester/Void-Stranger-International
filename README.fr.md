@@ -5,6 +5,7 @@ __Traductions actuellement incluses&nbsp;:__
 * Français par Oskilla et cykaGPT
 * Espagnol par AnaximanDraws
 * Italien par GiAnMMV
+* Russe par Hamester et RedsToad
 
 ## Installation du patch
 

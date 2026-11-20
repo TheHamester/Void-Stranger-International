@@ -3,11 +3,13 @@
 
 [![fr](https://img.shields.io/badge/français-green.svg)](./README.fr.md)
 [![it](https://img.shields.io/badge/italiano-green.svg)](./README.it.md)
+[![ru](https://img.shields.io/badge/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-green.svg)](./README.ru.md)
 
 __Currently included translations:__
 * Spanish by AnaximanDraws
 * French by Oskilla and cykaGPT
 * Italian by GiAnMMV
+* Russian by Hamester and RedsToad
 
 ## Setting things up
 

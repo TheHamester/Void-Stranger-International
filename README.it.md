@@ -5,6 +5,7 @@ __Traduzioni attualmente incluse:__
 * Italiano di GiAnMMV
 * Spagnolo di AnaximanDraws
 * Francese di Oskilla e cykaGPT
+* Russa di Hamester e RedsToad
 
 ## Preparazione
 
